@@ -1,5 +1,5 @@
 # Business Analytics
-*The following repository contains folders of various data science applications in Business Adminstrations.*
+*The following repository contains folders of various data science applications in Business Administrations.*
 
 ![](banner.png)
 
