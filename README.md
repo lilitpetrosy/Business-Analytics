@@ -1,7 +1,7 @@
 # Business Analytics
+*The following repository contains folders of various data science applications in Business Adminstrations.*
 
 ![](banner.png)
-The following repository contains folders of various data science applications in Business Adminstrations.
 
  **Maintenence**  
 > In the developing world, it can still be surprising to learn that it is possible to predict maintenance issues before they can cause losses for the business.    
